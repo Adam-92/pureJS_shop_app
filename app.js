@@ -8,7 +8,7 @@ const client = contentful.createClient({
 //-----Variables-----
 const cartBtn = document.querySelector('.cart-btn');
 const closeCartBtn = document.querySelector('.close-cart');
-const clearCartBtn = document.querySelector('.clear-cart');
+const clearCartBtn = document.querySelector('.cart-footer-btn');
 
 const cartOverlay = document.querySelector('.cart-overlay'); 
 const cartDOM = document.querySelector('.cart');
