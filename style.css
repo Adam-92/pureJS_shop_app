@@ -76,21 +76,14 @@ body {
     letter-spacing: var(--mainSpacing);
     margin-bottom: 3rem;
   }
-  .banner-btn {
+  .banner-bar {
     padding: 1rem 3rem;
-    text-transform: uppercase;
-    letter-spacing: var(--mainSpacing);
-    font-size: 1rem;
+    width: 100%;
     background: var(--primaryColor);
     color: var(--mainBlack);
     border: 1px solid var(--primaryColor);
-    transition: var(--mainTransition);
-    cursor: pointer;
   }
-  .banner-btn:hover {
-    background: transparent;
-    color: var(--primaryColor);
-  }
+
   /* --------------- End of Hero ---------------- */
   /* ---------------Products ---------------- */ 
 .products {
