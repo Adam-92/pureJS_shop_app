@@ -235,7 +235,6 @@ class UI {
 //Remove item
  removeItem(id){
     cart = cart.filter(item => item.id !== id);
-    console.log(cart);
     this.setCartValues(cart);
     Storage.saveCart(cart);
     //get deleted button
@@ -245,7 +244,6 @@ class UI {
  }
  //Get the correct button.bag-btn by id
  getSingleButton(id){
-     console.log(buttonsDOM);
      return buttonsDOM.find(button => button.dataset.id === id);
  }
 //Remove cartContent
