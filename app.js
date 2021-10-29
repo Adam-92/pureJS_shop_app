@@ -27,9 +27,7 @@ class Products {
 
     async getProducts(){
         try{
-            console.log(client);
             let contenful = await client.getEntries();
-            console.log(contenful);
                 let products = contenful.items;
                     products = products.map(item => {
                         const {title,price} = item.fields;
@@ -49,7 +47,6 @@ class UI {
     displayProducts(products){
         let result = '';
         //extract the products
-        console.log(products);
         products.forEach(products => {
 
             const id = products.id;
