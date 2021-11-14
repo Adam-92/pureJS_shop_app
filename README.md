@@ -1,12 +1,17 @@
-# pureJS_shop_app
 
-Project made in pure JS along with the tutorial of Coding Addict
+# Project of furniture shop
 
-https://www.youtube.com/watch?v=90PgFUPIybY
+The project was made in pure JavaScript. It shows a furniture store.
+Selected furniture goes to the cart (local storage), where we can increase their number, remove it individually or completely.
+For the purposes of the project, I put a few example objects on the Contentful platform, from where after loading the DOM tree, the data is downloaded asynchronously.
 
-it's project made by me step by step with the chanel.
-Uses external contenful APi to fetch the furniture products.
+The project contains:
+- response handling using fetch 
+- responsiveness (mobile friendly)
+- styling in css
 
-Please see the live project here:
+You can see the project at the 
 
 https://js-furniture-shop.netlify.app/
+
+
