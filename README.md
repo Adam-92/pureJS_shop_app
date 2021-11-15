@@ -1,5 +1,5 @@
 
-# Project of the furniture shop
+# Project of the Furniture Shop
 
 The project made in pure JavaScript. It shows the furniture store.
 Selected furniture goes to the cart (local storage), where we can increase their number, remove it individually or completely.
