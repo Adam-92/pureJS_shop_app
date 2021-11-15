@@ -11,6 +11,7 @@ The project contains:
 - styling in CSS
 
 You can see the project at the: 
+
 https://js-furniture-shop.netlify.app/
 
 
