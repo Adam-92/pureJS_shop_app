@@ -8,8 +8,7 @@
 # Live
   https://js-furniture-shop.netlify.app/
 
-
-The project made in pure JavaScript. It shows the furniture store.
+The project of the furniture store made in pure JavaScript.
 
 The project includes:
 
