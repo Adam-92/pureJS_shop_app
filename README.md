@@ -12,7 +12,7 @@ The project of the furniture store made in pure JavaScript.
 
 The project includes:
 
-- Saving chosen product in local storage 
+- Saving chosen products in local storage 
 - Responsiveness (mobile friendly)
 - Styling in CSS with the variables
 - Async function to fetch the products put on the Contenfull server (https://www.contentful.com/)
